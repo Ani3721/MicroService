@@ -1,0 +1,7 @@
+user-service
+	port 9091
+
+/user/1344
+
+apigateway
+	port 8999
